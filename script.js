@@ -9,8 +9,8 @@ var download = document.querySelectorAll('.download li')
 
 // default properties for QR Code
 var properties = {
-        width: 512,
-        height: 512,
+        width: 256,
+        height: 256,
         type: "svg",
         margin: 10,
         data: '',
